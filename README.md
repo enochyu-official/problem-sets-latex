@@ -11,5 +11,3 @@ Comments and Feedback are welcomed :)) Enjoy!!
 
 ## License
 All materials are provided for educational use only.
-# problem-sets-latex
-# problem-sets-latex
