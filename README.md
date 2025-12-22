@@ -10,4 +10,10 @@ There are much better solutions and tex formats out there. I am making this coll
 Comments and Feedback are welcomed :)) Enjoy!!
 
 ## License
-All materials are provided for educational use only.
+Problem statements are © their respective copyright holders. They are included for educational and non-commercial reference only.
+
+All original write-ups, solutions, and commentary are © Enoch Yu and are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+This license does not apply to problem statements.
+
+[![CC BY 4.0 Shield](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
